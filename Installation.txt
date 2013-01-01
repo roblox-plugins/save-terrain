@@ -1,0 +1,14 @@
+Installation:
+
+1) Open up ROBLOX Studio
+2) On top toolbar, go to Tools > Open Plugins Folder
+3) Extract this zipped folder to the plugins folder
+4) Restart ROBLOX Studio (Close and reopen it)
+
+Step 4 is a precaution step. It may not be needed but in some cases
+will be needed. Follow it just for precaution. You are seriously
+lazy if you can't close and reopen it!
+
+--------------------------------------------------------------------
+
+NOTE: Plugins will only appear when you are in Edit or Solo mode on your game.
